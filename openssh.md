@@ -23,6 +23,9 @@ Config file: /etc/ssh/sshd_config
     ClientAliveInterval 300
     ClientAliveCountMax 0
     
+#### Change user root directory
+    ChrootDirectory /home/%u
+    
 #### Use Firewall to filter connections
 
 #### Keep system and service up to date
