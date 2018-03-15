@@ -1,5 +1,6 @@
 ### Secure OpenSSH server
 Linux & OpenSSH
+
 Config file: /etc/ssh/sshd_config
 
 #### Use SSH public key for login (>=2048 bits)
