@@ -1,4 +1,4 @@
-### Secure SSH server
+### Secure OpenSSH server
 Linux & OpenSSH
 Config file: /etc/ssh/sshd_config
 
